@@ -32,5 +32,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pavelsobolev1991&theme=react-dark)](https://github.com/pavelsobolev1991/github-readme-activity-graph)</div>
+<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
 
