@@ -31,4 +31,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavelsobolev1991)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1)](https://git.io/streak-stats)
