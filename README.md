@@ -34,5 +34,5 @@
 
 </br>
 
-<span style="display:flex; flex-direction:row; align-content:center; justify-content:center;align:center;">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
+<span style="width: 200px; margin: 0 auto">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
 
