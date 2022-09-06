@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/pavelsob/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="pavelsobolev1991@gmail.com">
+  <a href="mailto:pavelsobolev1991@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/pavsob1991">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
