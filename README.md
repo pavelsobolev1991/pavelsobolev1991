@@ -31,4 +31,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1)](https://git.io/streak-stats)
+
+<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pavelsobolev1991&theme=react-dark)](https://github.com/pavelsobolev1991/github-readme-activity-graph)</span>
+
