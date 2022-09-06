@@ -1,8 +1,8 @@
-<h1 align="left">Hi there, I'm <a href="#" target="_blank">Pavel</a> 
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Pavel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="left">Frontend developer</h2>
+<h2 align="center">Frontend developer</h2>
 
-<h3 align="left">Contact me here:</h3>
+<h3 align="center">Contact me here:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/pavelsob/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
-<h3 align="left">My skills:</h3>
+<h3 align="center">My skills:</h3>
 <div id="skills">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
