@@ -13,7 +13,7 @@
   <a href="https://t.me/pavsob1991">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
-</div>
+
 <h3 align="center">My skills:</h3>
 <div id="skills" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,4 +35,4 @@
 </br>
 
 <span style="width: 200px; margin: 0 auto">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
-
+</div>
