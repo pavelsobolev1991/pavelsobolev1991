@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm <a href="#" target="_blank">Pavel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Frontend developer</h3>
+<h2 align="left">Frontend developer</h2>
 
 <h3 align="left">Contact me here:</h3>
 <div id="badges">
