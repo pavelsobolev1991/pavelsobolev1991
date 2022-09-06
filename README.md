@@ -37,5 +37,6 @@
 
 <span style="width: 200px; margin: 0 auto">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
 
-<span style="width: 200px; margin: 0 auto">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelsobolev1991&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+</br>
+<span style="width: 200px; margin: 0 auto">[![codewars](https://www.codewars.com/users/Randomhaze/badges/large)](https://www.codewars.com/users/pspman43)</span>
 </div>
