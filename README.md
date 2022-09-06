@@ -13,3 +13,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
+
+<div id="skills">
+<p>My skills:</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="LinkedIn Badge"/>
+</div>
