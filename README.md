@@ -10,6 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/pavsob1991">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=black" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
