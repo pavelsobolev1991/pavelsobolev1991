@@ -1,9 +1,9 @@
-<h1 align="left">Hi there, I'm <a href="#" target="_blank">Pavel</a> 
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Pavel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="left">Frontend developer</h2>
+<h2 align="center">Frontend developer</h2>
 
 <h3 align="left">Contact me here:</h3>
-<div id="badges" align=left">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pavelsob/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
-<h3 align="left">My skills:</h3>
-<div id="skills" align="left">
+<h3 align="center">My skills:</h3>
+<div id="skills" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>&nbsp;
@@ -34,5 +34,5 @@
 
 </br>
 
-<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
+<span style="display:flex; flex-direction:row; align-content:center; justify-content:center;align:center;">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
 
