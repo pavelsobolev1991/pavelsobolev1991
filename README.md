@@ -3,7 +3,7 @@
 <h2 align="center">Frontend developer</h2>
 
 <h3 align="center">Contact me here:</h3>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pavelsob/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,7 +15,7 @@
   </a>
 </div>
 <h3 align="center">My skills:</h3>
-<div id="skills">
+<div id="skills" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>&nbsp;
