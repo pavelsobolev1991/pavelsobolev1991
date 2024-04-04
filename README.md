@@ -32,6 +32,6 @@
 
 <span style="width: 200px; margin: 0 auto">[![codewars](https://www.codewars.com/users/pspman43/badges/large)](https://www.codewars.com/users/pspman43)</span>
 
-<span style="width: 200px; margin: 0 auto">[![leetcode](https://leetcode.com/pavelsobolev1991/badges/large)](https://leetcode.com/pavelsobolev1991/)</span>
+<span style="width: 200px; margin: 0 auto">[![leetcode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pavelsobolev1991/)</span>
 
 </div>
