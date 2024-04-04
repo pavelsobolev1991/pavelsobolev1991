@@ -31,7 +31,7 @@
 <span style="width: 200px; margin: 0 auto">[![Pavel Sobolev GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsobolev1991&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/pavelsobolev1991/github-readme-stats)</span>
 
 <span style="width: 200px; margin: 0 auto">[![codewars](https://www.codewars.com/users/pspman43/badges/large)](https://www.codewars.com/users/pspman43)</span>
-<a href="[https://leetcode.com/your_username](https://leetcode.com/pavelsobolev1991/)">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-</a>
+
+<span style="width: 200px; margin: 0 auto">[![leetcode](https://leetcode.com/pavelsobolev1991/badges/large)](https://leetcode.com/pavelsobolev1991/)</span>
+
 </div>
