@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <h3 align="center">Contact me here:</h3>
-  <a href="https://t.me/pavsob1991">
+  <a href="https://t.me/p_sob_dev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 
